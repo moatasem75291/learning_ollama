@@ -1,1 +1,1 @@
-# Breadcrumbslearning_ollama
+# learning_ollama
